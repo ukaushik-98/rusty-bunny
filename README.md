@@ -1,4 +1,4 @@
-# Rust Bunny!
+# Rust Bunny
 Start using Rust Bunny with:
 - Import Rust Bunny into browser
 - Make it the default engine
