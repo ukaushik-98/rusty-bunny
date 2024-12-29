@@ -7,7 +7,7 @@ Start using Rust Bunny with:
 Bookmark manager that supports:
 - Github: `gh`
 - Twitter: `tw`
-- Google: 
+- Google: `google`
 
 ## Development
 - Build via `cargo install --path .`
